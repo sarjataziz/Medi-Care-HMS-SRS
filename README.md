@@ -64,7 +64,7 @@ The SRS outlines the functionality of the Medi-Care Hospital Management System (
 ### 1.3 Overview of the System
 
 The Medi-Care HMS is a web-based platform designed to enhance the interconnected experience among patients, medical professionals, and health services. It streamlines healthcare interactions, offers a seamless booking experience, and provides clear cost breakdowns for medical expenses. The platform ensures swift emergency response and establishes international connectivity with extensive disease databases.
-<img src="path/to/your/image.jpg" alt="Medi-Care">
+<img src="https://github.com/sarjataziz/Medi-Care-HMS-SRS/blob/e3ae7cd019db7e716c9ffa5b0222170c41980802/img/Medi-Care.png" alt="Medi-Care">
 
 ### 1.4 Business Context
 
