@@ -617,7 +617,7 @@ Active participation from all stakeholders is encouraged to shape a healthcare s
 
 - [Sarjat Aziz Rumi](https://github.com/sarjataziz)
 
-- [Afsan Sany](https://github.com/Amp47)
+- [Afsan Sani](https://github.com/Amp47)
 ----
 
 [Back to Top](#table-of-contents)
